@@ -3,7 +3,7 @@
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:oseogbe/buy-simply-backend-test.git
    ```
 
 2. Install dependencies:
